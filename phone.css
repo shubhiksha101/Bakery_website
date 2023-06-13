@@ -1,0 +1,80 @@
+#navbar
+{
+    flex-direction:column;
+}
+#navbar logo img
+{
+ height:100px;
+}
+#navbar ul li a
+{
+    font-size:1rem;
+    padding:0px 7px;
+    padding-bottom:8px;
+}
+#navbar ul li a:hover{
+    padding-bottom:2px;
+}
+#home
+{
+    height:480px; 
+    padding:3px 68px;  
+    
+}
+#home .h-primary
+{
+    margin-top: 100px;
+}
+#home::before
+{
+    height:480px;   
+    
+}
+#home p
+{
+    font-size:13px;
+}
+#services
+{
+    flex-direction:column;
+    margin:1px 4px;
+}
+
+
+#clients
+{
+    flex-wrap:wrap;
+}
+#clients img
+{
+    width:66px;
+    padding:6px;
+    height:auto;
+}
+.h-primary
+{
+    font-size: 26px;
+}
+.btn
+{
+    font-size:15px;
+    padding:4px 8px;
+}
+#services .box
+{
+    overflow: hidden;
+    padding: 37px 11px;
+    margin-bottom: 23px;
+    
+}
+.client-item {
+    padding: 3px;
+}
+#contact-box form
+{
+    width:80%;
+}
+#client-section
+{
+height: 233px;
+}
